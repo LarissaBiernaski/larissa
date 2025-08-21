@@ -1,24 +1,24 @@
 body{
-    background-color: black;
-    color: rgb(125, 5, 5);
+    background-color: rgba(83, 212, 195, 0.671);
+    color: rgb(179, 11, 11);
     margin: 0px;
 }
 
 header{
-    border-bottom: inset 3px rgb(231, 236, 93);
+    border-bottom: inset 3px rgb(221, 137, 41);
     padding: 15px;
     font-size: 30px;
-    color: rgb(240, 207, 16)
+    color: rgb(228, 58, 157)
 }
 
 h1{
     padding: 10px;
     font-size: 20px;
-    color: rgb(255, 13, 0)
+    color: rgb(178, 135, 228)
 }
 
 p{
     padding: 5px;
     font-size: 15px;
-    color: rgb(154, 144, 144)
+    color: rgb(118, 55, 218)
 }
